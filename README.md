@@ -1,2 +1,4 @@
-sample_clojure
-==============
+Clojure Sample
+=====================
+
+Simple Clojure app using clojure.test framework.
