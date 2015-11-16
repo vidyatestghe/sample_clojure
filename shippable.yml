@@ -15,3 +15,5 @@ script:
   - cd sample
   - lein test2junit
 cache: true
+
+archive: true
