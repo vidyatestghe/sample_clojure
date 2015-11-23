@@ -21,4 +21,4 @@ archive: true
 matrix:
   include:
     - lein: lein1
-      foo=bar
+      env: foo=bar
