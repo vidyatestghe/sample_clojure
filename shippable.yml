@@ -17,3 +17,8 @@ script:
 cache: true
 
 archive: true
+
+matrix:
+  include:
+    - lein: lein1
+    - foo=bar
